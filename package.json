@@ -1,6 +1,6 @@
 {
   "name": "btcbot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Programmable nodejs bitcoin bots",
   "main": "application.js",
   "scripts": {
